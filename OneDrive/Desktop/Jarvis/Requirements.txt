@@ -1,0 +1,10 @@
+pillow==12.2.0          # Image processing (open,save images)
+pocketsphinx==5.0.4     # Offline speech recognition engine
+PyAudio==0.2.14         # Microphone input & audio playback
+PyAutoGUI==0.9.54       # Automate mouse/keyboard actions
+PyScreeze==1.0.1        # Screenshot support  PyAutoGUI)
+pyttsx3==2.99           # Text-to-speech
+RapidFuzz==3.14.5       # Fast fuzzy string matching
+setuptools==82.0.1      # Packaging & distribution helper
+SpeechRecognition==3.16.0 # Speech-to-text via Google API
+thefuzz==0.22.1         # Fuzzy string matching
